@@ -1,0 +1,28 @@
+{
+  "name": "nex",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@heroicons/react": "^1.0.6",
+    "axios": "^1.7.7",
+    "bcrypt": "^5.1.1",
+    "mogoose": "^0.0.1-security",
+    "mongodb": "^6.9.0",
+    "mongoose": "^8.8.0",
+    "next": "^15.0.2",
+    "next-auth": "^4.24.8",
+    "react": "19.0.0-rc-69d4b800-20241021",
+    "react-dom": "19.0.0-rc-69d4b800-20241021",
+    "zustand": "^5.0.0"
+  },
+  "devDependencies": {
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}

@@ -1,0 +1,96 @@
+{
+    "quizTitle": "Car Finder",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Do you have any specific car brands you'd prefer?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "id": 2,
+        "question": "What will be the primary purpose of your car?",
+        "options": [
+          "Daily commuting (work/school)",
+          "Long drives",
+          "Running errands",
+          "Business use or client meetings",
+          "Outdoor activities",
+          "Heavy loads or towing",
+          "Sporty or performance driving",
+          "Luxury or high-end experiences"
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Where do you expect to drive most often?",
+        "options": [
+          "City streets",
+          "Suburban or extraurban areas",
+          "Off-road or rough terrain"
+        ]
+      },
+      {
+        "id": 4,
+        "question": "What features are important to you in a car?",
+        "options": [
+          "Advanced safety features",
+          "Ambient interior lighting",
+          "Parking sensors",
+          "Parking cameras",
+          "Apple CarPlay/Android Auto",
+          "Digital driver’s display",
+          "Air suspension",
+          "LED headlights",
+          "Infotainment system"
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Would you like the car to be suitable for delivery and transport?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Are you planning to use the car for ride-sharing services?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Will this car be part of a company fleet?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "id": 8,
+        "question": "Is this car intended for a first-time driver?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "id": 9,
+        "question": "How old do you want the car to be?",
+        "options": [
+          "New",
+          "Almost new",
+          "Under 5 years",
+          "Under 10 years",
+          "Around 15 years",
+          "Doesn't matter"
+        ]
+      }
+    ]
+  }
+  

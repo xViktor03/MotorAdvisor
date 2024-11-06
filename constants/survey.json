@@ -1,0 +1,62 @@
+{
+        "comfort":
+        {
+            "Daily commuting (work/school)" : [950,1100],
+            "Long drives" : [950,1100],
+            "Running errands" : [650,750],
+            "Business use or client meetings" : [900,1200],
+            "Outdoor activities" : [750,950],
+            "Delivery/transportation services" : [750,950],
+            "Luxury or high-end experiences" : [1100,1363],
+            "Sporty or performance driving" : [750,1100],
+            "Heavy loads or towing" : [650,750],
+            "Company fleet" : [850,1000],
+            "Ride-sharing" : [900,1050],
+            "First driver car" : [750,950]
+        },
+        "space":
+        {
+            "Daily commuting (work/school)" : [150,275],
+            "Long drives" : [200,317],
+            "Running errands" : [275,317],
+            "Business use or client meetings" : [200,317],
+            "Outdoor activities" : [275,317],
+            "Delivery/transportation services" : [150,275],
+            "Luxury or high-end experiences" : [150,317],
+            "Sporty or performance driving" : [150,275],
+            "Heavy loads or towing" : [150,275],
+            "Company fleet" : [125,275],
+            "Ride-sharing" : [150,300],
+            "First driver car" : [100,185]
+        },
+        "speed":
+        {
+            "Daily commuting (work/school)" : [500,700],
+            "Long drives" : [700,850],
+            "Running errands" : [400,500],
+            "Business use or client meetings" : [500,1100],
+            "Outdoor activities" : [500,700],
+            "Delivery/transportation services" : [400,700],
+            "Luxury or high-end experiences" : [500,1400],
+            "Sporty or performance driving" : [850,1400],
+            "Heavy loads or towing" : [500,700],
+            "Company fleet" : [500,700],
+            "Ride-sharing" : [600,700],
+            "First driver car" : [350,600]
+        },
+        "offroad":
+        {
+            "Daily commuting (work/school)" : [150,550],
+            "Long drives" : [150,550],
+            "Running errands" : [150,550],
+            "Business use or client meetings" : [150,550],
+            "Outdoor activities" : [300,600],
+            "Delivery/transportation services" : [150,550],
+            "Luxury or high-end experiences" : [150,450],
+            "Sporty or performance driving" : [150,450],
+            "Heavy loads or towing" : [350,650],
+            "Company fleet" : [150,550],
+            "Ride-sharing" : [150,550],
+            "First driver car" : [150,400]
+        }
+}

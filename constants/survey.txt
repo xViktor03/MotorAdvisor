@@ -1,0 +1,63 @@
+Do you have a particular car brand in mind that you'd prefer?
+Yes - car options for the car brand
+No
+
+What do you intend to use the car for?
+Daily commuting - +1 comfort
+Long drives - +1 speed, +1 space, +1 comfort, diesel
+Running errands - +1 space, -1 speed, -1 comfort
+Business use or client meetings - +1 comfort, +1 space
+Outdoor activities - +1 offroad, +1 space
+Delivery or transportation services - van/minivan/pick-up
+Luxury or high-end experiences - +2 comfort
+Sporty or performance driving - +2 speed
+
+Where do you expect to drive most often?
+City streets - hybrid or electric, smaller car 
+Suburban or extraurban areas - ice engine, average sized car
+Off-road or rough terrain - bigger car, ice engine
+
+What is your budget for fuel expenses?
+Less than $100 per month
+Between $100 and $200 per month
+Between $200 and $300 per month
+Around $500 per month
+I'm flexible, but prefer a fuel-efficient option
+
+Heavy loads or towing - pick-up, ++ offroad, preferably diesel
+
+Company fleet - -1 comfort, -1 speed
+
+Ride-sharing - +1 comfort, +1 space, preferably hybrid
+
+First driver car - smaller car, -1 speed
+
+How old do you want the car to be?
+New - in production
+Almost new - 1-3 years old
+Under 5 years - under 5 years old
+Under 10 years - under 10 years old
+Around 15 years - 20-10 years old
+Doesn't matter - 
+
+
+
+- comfort = 650-750 points
+0 comfort  = 750-950 points
++ comfort = 950-1100 points
+++ comfort = 1100-1363 points
+
+- speed = 400-500 points
+0 speed = 500-700 points
++ speed = 700-850 points
+++ speed = 850-1400 points
+
+- space = 30-150 points
+0 space = 150-275 points
++ space = 275-317 points
+++ space = 317-427 points
+
+- offroad = 72-250 points
+0 offroad = 250-425 points
++ offroad = 425-550 points
+++ offroad = 550-658 points
